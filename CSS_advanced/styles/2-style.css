@@ -3,7 +3,7 @@ html {
   }
 
 body {
-    color: #161616;
+    background-color: #161616;
     offset-anchor: #161616;
 
 }
@@ -13,9 +13,9 @@ body {
 }
 
 .card-category {
-    color: #D73953;
+    background-color: #D73953;
 }
 
 .section-tagline {
-    columns: #D73953;
+    background-color: #D73953;
 }
