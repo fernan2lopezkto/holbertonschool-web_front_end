@@ -55,6 +55,8 @@ a:active {
 
 .container {
     width: 960;
+    margin-left: 960;
+    margin-right: 960;
 }
 
 .section-title {
