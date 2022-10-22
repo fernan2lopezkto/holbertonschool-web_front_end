@@ -2,10 +2,10 @@
 /*# sourceMappingURL=normalize.min.css.map */
 
 *::before {
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 *::after {
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 html {
