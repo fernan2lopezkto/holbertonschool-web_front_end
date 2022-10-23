@@ -177,8 +177,8 @@ h1, h2, h3, h4, h5 ,h6 {
 
 .row::after {
     content: none;
-    display: table;
-    float: none;
+    display: contents;
+    float: right
 }
 
 ul.row {
