@@ -212,6 +212,6 @@ ul.row {
 }
 
 [data-section-theme="dark"] {
-    color: var(--color-white);
+    color: var(--text-color);
     background-color: var(--color-black);
 }
