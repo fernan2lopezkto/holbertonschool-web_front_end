@@ -214,6 +214,10 @@ ul.row {
     display: block;
 }
 
+.social-link > svg not found {
+    color: var(--text-color);
+}
+
 [class^="col-"] {
     float: left;
     padding: 0.5rem;
