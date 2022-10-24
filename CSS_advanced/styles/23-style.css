@@ -214,7 +214,7 @@ ul.row {
     display: block;
 }
 
-.social-link > svg not found {
+.social-link > svg {
     color: var(--text-color);
 }
 
