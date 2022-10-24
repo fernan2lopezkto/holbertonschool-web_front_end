@@ -211,7 +211,7 @@ ul.row {
     padding: 0.5rem;
 }
 
-:root, html[data-section-theme='dark'] {
+:root, html[data-section-theme="dark"] {
     color: var(--color-white);
     background-color: var(--color-black);
 }
