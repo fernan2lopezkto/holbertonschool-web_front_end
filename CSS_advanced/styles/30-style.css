@@ -206,13 +206,21 @@ a:active {
     position: relative;
 }
 
-.card-title {
+.card-title a, .card-work a {
     display: block;
     text-decoration: none;
     padding-top: 0.45rem;
 }
 
+.card-title a::after, .card-work a::after {
+    position: absolute;
+    margin: 0 0 0 0;
+    content: "";
+}
 
+.card-title .card-work:hover {
+    opacity: 1rem;
+}
 
 .section {
     padding: var(--section-padding);
