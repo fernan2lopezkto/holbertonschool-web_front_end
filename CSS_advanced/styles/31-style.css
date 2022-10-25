@@ -226,7 +226,7 @@ a:active {
 }
 
 .card-testimonial .card-quote {
-    position: absolute;
+    position: relative;
     top: -4.5rem;
 }
 
