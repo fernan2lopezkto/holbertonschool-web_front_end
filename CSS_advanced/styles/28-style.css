@@ -102,7 +102,8 @@ body, a {
 .header-logo a {
     display: var(--header-logo-link-display);
     position: var(--header-logo-link-position);
-    position: var(--header-logo-link-top) var(--header-logo-link-left);
+    top: var(--header-logo-link-top);
+    right: var(--header-logo-link-left);
 }
 
 .button {
