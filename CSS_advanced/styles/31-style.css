@@ -236,6 +236,7 @@ a:active {
     color: #efeded;
     font-size: 10rem;
     z-index: -1;
+    position: absolute;
 }
 
 .section {
