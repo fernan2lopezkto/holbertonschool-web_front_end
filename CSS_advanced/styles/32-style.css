@@ -189,6 +189,14 @@ a:active {
     vertical-align: bottom;
 }
 
+.card-work:hover .card-image {
+    transform: scale(1.2);
+}
+
+.card-work:hover .card-outer {
+    transform: scale(0.95);
+}
+
 .card-work .card-inner {
     position: absolute;
     top: -0.1rem;
