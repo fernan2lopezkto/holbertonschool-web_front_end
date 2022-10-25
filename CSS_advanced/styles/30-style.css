@@ -209,16 +209,19 @@ a:active {
 .card-work .card-title a {
     display: block;
     text-decoration: none;
-    padding-top: 0.45rem;
+    padding-top: 45%;
 }
 
 .card-work .card-title a::after {
     position: absolute;
-    margin: 0 0 0 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     content: "";
 }
 
-.card-title .card-work:hover {
+.card-work:hover .card-title {
     opacity: 1rem;
 }
 
