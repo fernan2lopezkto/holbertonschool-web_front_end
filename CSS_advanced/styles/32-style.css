@@ -123,6 +123,7 @@ body, a {
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
     transition-duration: var(--transition-duration);
+    transition-property: var(--button-hover-background);
 }
 
 a:link {
